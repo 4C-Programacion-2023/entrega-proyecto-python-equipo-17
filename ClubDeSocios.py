@@ -280,3 +280,5 @@ boton_salir = tk.Button(root, text="Salir", command=salir)
 boton_salir.pack(pady=10)
 
 root.mainloop()
+
+"comentario"
